@@ -44,7 +44,7 @@
   <a href="https://github.com/adalomer/minishell">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=adalomer&repo=minishell&theme=radical" />
   </a>
-  <a href="https://github.com/adalomer/philo">
+  <a href="https://github.com/adalomer/philosophers">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=adalomer&repo=philo&theme=radical" />
   </a>
 </p>
