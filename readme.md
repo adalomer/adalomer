@@ -1,6 +1,6 @@
 <!-- Profil Başlığı -->
 <h1 align="center">🚀 Welcome to My GitHub Profile! 🚀</h1>
-<h2 align="center">Hi, I'm Ömer Ali Adalı <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> — Passionate CS Student from Turkey 🇹🇷</h2>
+<h2 align="center">Hi, I'm Ömer Ali Adalı <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> — Passionate software Student from Turkey 🇹🇷</h2>
 
 <!-- Tipografi animasyonu -->
 <p align="center">
