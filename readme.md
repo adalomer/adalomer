@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ömer Ali Adalı</h1>
-<h3 align="center">A passionate computer engineering student from Turkey</h3>
+<h3 align="center">A passionate computer science student from Turkey</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;C+Lover;Web+Design+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
@@ -40,7 +40,7 @@
 ### 🌐 Socials
 
 <p align="left">
-  <a href="https://linkedin.com/in/omeraliadali" target="_blank">
+  <a href="https://www.linkedin.com/in/%C3%B6mer-ali-adal%C4%B1-341148279/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
