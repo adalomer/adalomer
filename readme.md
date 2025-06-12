@@ -7,11 +7,10 @@
 
 ---
 
-- 🔭 I’m currently working on **Push Swap & FdF projects (42 School)**  
-- 🌱 I’m currently learning **Advanced C, MiniLibX, and Git**  
+- 🔭 I’m currently working on **Minishell & philo projects (42 School)**  
+- 🌱 I’m currently learning **Advanced C, MiniLibX, Git, php**  
 - 💬 Ask me about **C, Linux, or HTML/CSS**  
-- 📫 How to reach me: **adalomer@gmail.com**  
-- ⚡ Fun fact: I love playing chess and football ⚽  
+- 📫 How to reach me: **omer@mail.com**  
 
 ---
 
