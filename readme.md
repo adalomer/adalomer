@@ -4,7 +4,7 @@
 
 <!-- Tipografi animasyonu -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Computer+Engineering+Student;C+Lover+%7C+Shell+Wizard+%7C+Web+Tinkerer;42+School+Cadet;I+Code+%F0%9F%94%A5+I+Learn+%F0%9F%92%AA+I+Grow+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Computer+Science+Student;C+Lover+%7C+Shell+Wizard+%7C+Web+Tinkerer;42+School+Cadet;I+Code+%F0%9F%94%A5+I+Learn+%F0%9F%92%AA+I+Grow+%F0%9F%8C%B1" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,9 +13,8 @@
 - 🔭 I’m currently working on: `Minishell` and `Philo` (42 Projects)
 - 🌱 Learning: `Advanced C`, `Bash`, `MiniLibX`, `PHP`, `Git`
 - 💡 Interests: `Web Design`, `Open Source`, `Linux`, `Algorithms`
-- 📫 Reach me at: **omer@mail.com**
-- ⚡ Fun Fact: I can write better shell scripts than I cook 🍳😅
-
+- 📫 Reach me at: **adalomer60@gmail.com**
+- ⚡
 ---
 
 ### 🧠 Skills & Tools
