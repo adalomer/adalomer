@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=42+School+Cadet+%F0%9F%9A%80;System+Programmer+%F0%9F%92%BB;C+%7C+Shell+%7C+Linux+Lover+%F0%9F%90%A7;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 
-[![42 Profile](https://img.shields.io/badge/42-oadalı-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/oadali)
+[![42 Profile](https://img.shields.io/badge/42-omadalı-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/oadali)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ömer-ali-adalı-341148279/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adalomer60@gmail.com)
 [![42 Kocaeli](https://img.shields.io/badge/42-Kocaeli-00BABC?style=for-the-badge&logo=42&logoColor=white)](#)
