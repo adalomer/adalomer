@@ -176,7 +176,7 @@ done
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ömer_Ali_Adalı-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ömer-ali-adalı-341148279/)
 [![Email](https://img.shields.io/badge/Email-adalomer60@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adalomer60@gmail.com)
-[![42 Profile](https://img.shields.io/badge/42_Intra-oadalı-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/oadali)
+[![42 Profile](https://img.shields.io/badge/42_Intra-oadalı-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/omadali)
 
 </div>
 
