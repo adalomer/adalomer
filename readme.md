@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=42+School+Cadet+%F0%9F%9A%80;System+Programmer+%F0%9F%92%BB;C+%7C+Shell+%7C+Linux+Lover+%F0%9F%90%A7;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 
-[![42 Profile](https://img.shields.io/badge/42-omadalı-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/oadali)
+[![42 Profile](https://img.shields.io/badge/42-oadalı-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/oadali)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ömer-ali-adalı-341148279/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adalomer60@gmail.com)
 [![42 Kocaeli](https://img.shields.io/badge/42-Kocaeli-00BABC?style=for-the-badge&logo=42&logoColor=white)](#)
@@ -28,7 +28,7 @@ typedef struct s_developer {
 t_developer me = {
     .name = "Ömer Ali Adalı",
     .location = "Kocaeli, Turkey 🇹🇷",
-    .education = "42 Kocaeli","Kocaeli university"
+    .education = "42 Kocaeli",
     .interests = {"System Programming", "Web Development", "Open Source", "Linux"},
     .current_focus = "Everything that interests me",
     .coffee_addicted = true
@@ -48,6 +48,8 @@ t_developer me = {
 
 ### 💪 Ana Dillerim
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
@@ -89,7 +91,7 @@ t_developer me = {
 | [**ft_printf**](https://github.com/adalomer/ft_printf) | ✅ | 100/100 | Printf fonksiyonunun yeniden yazılması |
 | [**get_next_line**](https://github.com/adalomer/get_next_line) | ✅ | 125/100 | Dosyadan satır okuma fonksiyonu |
 | [**Born2beroot**](https://github.com/adalomer/Born2beroot) | ✅ | 125/100 | Sistem yönetimi ve sanal makine kurulumu |
-| [**FDF**](https://github.com/adalomer/fdf) | ✅ | 100/100 | 3D Görsel motor - MiniLibX ile grafik programlama |
+| [**so_long**](https://github.com/adalomer/so_long) | ✅ | 125/100 | 2D oyun - MiniLibX ile grafik programlama |
 | [**push_swap**](https://github.com/adalomer/push_swap) | ✅ | 125/100 | Sorting algoritması optimizasyonu |
 | [**Minishell**](https://github.com/adalomer/minishell) | ✅ | 101/100 | Bash shell'in minimal versiyonu |
 | [**Philosophers**](https://github.com/adalomer/Philosophers) | ✅ | 100/100 | Dining philosophers problem - Threading |
@@ -176,7 +178,7 @@ done
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ömer_Ali_Adalı-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ömer-ali-adalı-341148279/)
 [![Email](https://img.shields.io/badge/Email-adalomer60@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adalomer60@gmail.com)
-[![42 Profile](https://img.shields.io/badge/42_Intra-oadalı-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/omadali)
+[![42 Profile](https://img.shields.io/badge/42_Intra-oadalı-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/oadali)
 
 </div>
 
@@ -188,8 +190,8 @@ done
 
 - 🍽️ Karnımı doyurmak
 - ✅ 42 Common Core'u tamamlamak
-- 🚀 Açık kaynak projelerinden uzak durmak
-- 💼 Tecrübe kazanmak
+- 🚀 Açık kaynak projelere katkıda bulunmak
+- 💼 Profesyonel bir yazılım geliştirici olmak
 
 ---
 
