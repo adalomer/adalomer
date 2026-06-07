@@ -15,18 +15,45 @@
   <img src="https://img.shields.io/badge/Kocaeli-Turkey-%23E30A17?style=for-the-badge" alt="Kocaeli, Turkey"/>
 </p>
 
-<!-- PROFILE VIEWS — prominent, with two services for redundancy -->
+</div>
+
+---
+
+## 👀 Profile Visitors
+
+<div align="center">
+
+<!-- Three independent visitor counters for redundancy -->
+
 <p>
   <a href="https://github.com/adalomer">
-    <img src="https://komarev.com/ghpvc/?username=adalomer&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=adalomer&color=00D9FF&style=for-the-badge&label=VISITORS" alt="Visitor Count"/>
   </a>
+  &nbsp;
   <a href="https://github.com/adalomer">
-    <img src="https://img.shields.io/github/followers/adalomer?style=for-the-badge&logo=github&label=Followers&color=00D9FF" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/adalomer?style=for-the-badge&logo=github&label=Followers&color=8A2BE2" alt="Followers"/>
   </a>
+  &nbsp;
   <a href="https://github.com/adalomer?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fadalomer&query=%24.public_repos&style=for-the-badge&logo=github&label=Public+Repos&color=8A2BE2" alt="Public Repos"/>
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fadalomer&query=%24.public_repos&style=for-the-badge&logo=github&label=Repos&color=00D9FF" alt="Public Repos"/>
   </a>
 </p>
+
+<p>
+  <a href="https://github.com/adalomer">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fadalomer&query=%24.followers&style=for-the-badge&logo=github&label=Followers&color=FF6B6B" alt="Followers via API"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/adalomer">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fadalomer&query=%24.following&style=for-the-badge&logo=github&label=Following&color=6F4E37" alt="Following via API"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/adalomer">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fadalomer&query=%24.public_gists&style=for-the-badge&logo=github&label=Gists&color=FCC624" alt="Gists via API"/>
+  </a>
+</p>
+
+<sub>👆 Counters auto-refresh on every page load. Multi-service fallback: even if one service is down, the others still count.</sub>
 
 </div>
 
@@ -202,14 +229,25 @@ t_developer me = {
 
 ---
 
-## 🏅 Trophies
+## 🏅 Achievements
 
 <div align="center">
-  <a href="https://github.com/adalomer">
-    <img src="https://github-profile-trophy.vercel.app/?username=adalomer&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4&margin-h=4" width="100%" alt="GitHub Trophies"/>
-  </a>
-  <br/>
-  <sub>👆 If trophies don't render, the vercel-app service might be rate-limiting. Refresh the page or check <a href="https://github.com/adalomer">your profile</a> directly.</sub>
+<p>
+  <img src="https://img.shields.io/badge/🏆_42_Cadet-Kocaeli-00D9FF?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/🎯_Common_Core-14%2F15-8A2BE2?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/💯_Perfect_Scores-×5-00D9FF?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/🚀_C%2B%2B_Webserver-Built-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/📚_C%2B%2B_Modules-8%2F9-00599C?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/🐧_Linux_Native-FCC624?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/☕_Coffee-Powered-6F4E37?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/🧠_Algorithmic_Thinker-8A2BE2?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/🛠️_Systems_Lover-00599C?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/🌙_Night_Coder-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/🎓_University-Kocaeli-00D9FF?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/🌍_From_Turkey-E30A17?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/⚡_Low_Level-C%20%2F%20C%2B%2B-00599C?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/🐳_Docker_Learner-2496ED?style=for-the-badge&labelColor=0D1117"/>
+</p>
 </div>
 
 ---
