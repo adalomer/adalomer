@@ -1,22 +1,32 @@
 <div align="center">
 
-<!-- HERO / ANIMATED BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:8A2BE2&height=220&section=header&text=%C3%96mer%20Ali%20Adal%C4%B1&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=42%20Cadet%20%7C%20System%20Programmer%20%7C%20Linux%20Enjoyer&descSize=18&descAlignY=55&descColor=00D9FF" width="100%" alt="Header"/>
+<!-- HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:8A2BE2&height=240&section=header&text=%C3%96mer%20Ali%20Adal%C4%B1&fontSize=44&fontColor=FFFFFF&fontAlignY=35&desc=42+Cadet+%7C+System+Programmer+%7C+Linux+Enjoyer&descSize=18&descAlignY=58&descColor=00D9FF" width="100%" alt="Header"/>
 
 <!-- TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=42+Kocaeli+Cadet+%F0%9F%9A%80;System+Programmer+%F0%9F%92%BB;C+%2F+C%2B%2B+%2F+Shell+%F0%9F%90%A7;Linux+Enjoyer+%F0%9F%90%A7;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=720&lines=42+Kocaeli+Cadet+%F0%9F%9A%80;System+Programmer+%F0%9F%92%BB;C+%2F+C%2B%2B+%2F+Shell+%F0%9F%90%A7;Linux+Enjoyer+%F0%9F%90%A7;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 
-<!-- BADGES -->
+<!-- MAIN BADGES -->
 <p>
   <a href="https://profile.intra.42.fr/users/omadali"><img src="https://img.shields.io/badge/42-omadal%C4%B1-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 Profile"/></a>
   <a href="https://github.com/adalomer"><img src="https://img.shields.io/badge/GitHub-adalomer-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/%C3%B6mer-ali-adal%C4%B1-341148279/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:adalomer60@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.google.com/maps/place/Kocaeli"><img src="https://img.shields.io/badge/Kocaeli-Turkey-%23E30A17.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMiA4Ij48cmVjdCB3aWR0aD0iMTIiIGhlaWdodD0iOCIgZmlsbD0iI0UwQ0ExNyIvPjxjaXJyY2xlIGN4PSI0IiBjeT0iNCIgcj0iMi42IiBmaWxsPSIjRUZGRkZGIi8+PGNpcmNsZSBjeD0iNS4yIiBjeT0iNCIgcj0iMi4yIiBmaWxsPSIjRTAzQTExNyIvPjxzdGFyIGN4PSI3LjUiIGN5PSI0IiByPSIxIiBmaWxsPSIjRUZGRkZGIiLz48L3N2Zz4=" alt="Location"/></a>
+  <img src="https://img.shields.io/badge/Kocaeli-Turkey-%23E30A17?style=for-the-badge" alt="Kocaeli, Turkey"/>
 </p>
 
-<!-- VISITOR COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=adalomer&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+<!-- PROFILE VIEWS — prominent, with two services for redundancy -->
+<p>
+  <a href="https://github.com/adalomer">
+    <img src="https://komarev.com/ghpvc/?username=adalomer&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/adalomer">
+    <img src="https://img.shields.io/github/followers/adalomer?style=for-the-badge&logo=github&label=Followers&color=00D9FF" alt="Followers"/>
+  </a>
+  <a href="https://github.com/adalomer?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fadalomer&query=%24.public_repos&style=for-the-badge&logo=github&label=Public+Repos&color=8A2BE2" alt="Public Repos"/>
+  </a>
+</p>
 
 </div>
 
@@ -35,20 +45,20 @@ typedef struct s_developer {
 }   t_developer;
 
 t_developer me = {
-    .name           = "Ömer Ali Adalı",
-    .location       = "Kocaeli, Turkey",
-    .education      = {"42 Kocaeli", "Kocaeli University"},
-    .interests      = {"System Programming", "Web Development", "Open Source", "Linux"},
-    .current_focus  = "cub3D & C++ modules",
+    .name            = "Ömer Ali Adalı",
+    .location        = "Kocaeli, Turkey",
+    .education       = {"42 Kocaeli", "Kocaeli University"},
+    .interests       = {"System Programming", "Web Development", "Open Source", "Linux"},
+    .current_focus   = "Inception & ft_transcendence",
     .coffee_addicted = true
 };
 ```
 
-- 🎓 **42 Kocaeli** cadet — focused on system programming and low-level topics
+- 🎓 **42 Kocaeli** cadet — system programming & low-level topics
 - 🏛️ **Kocaeli University** student
-- 💻 Working primarily in **C / C++**, exploring **Shell**, **Python**, and **web**
+- 💻 **C / C++** primary, exploring **Shell**, **Python**, web
 - 🐧 **Linux** user — terminal is home
-- 🚧 Currently grinding **cub3D** and **C++ modules**
+- 🚧 Currently grinding **Inception** & **ft_transcendence**
 - ☕ Caffeine-powered debugging sessions
 
 ---
@@ -56,10 +66,10 @@ t_developer me = {
 ## ⚡ Current Focus
 
 ```text
-✅ 42 Common Core ───────── 8/15 projects done
-🚧 cub3D                   ── in progress
-📚 C++ Modules (00-09)     ── in progress
-🌱 HTML/CSS/JS tinkering   ── side track
+✅ 42 Common Core ──────── 14/15 projects done
+🚧 Inception            ──── in progress
+🚧 ft_transcendence     ──── in progress
+📚 Open source contrib  ──── on the radar
 ```
 
 ---
@@ -75,6 +85,7 @@ t_developer me = {
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
 ### 🌐 Web
@@ -82,16 +93,17 @@ t_developer me = {
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
 ### 🧰 Tools & OS
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Make-427819?style=for-the-badge&logo=gnu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 </div>
@@ -102,7 +114,7 @@ t_developer me = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=adalomer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com/?user=adalomer&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="Streak Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=adalomer&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="Streak"/>
 </div>
 
 <div align="center">
@@ -134,15 +146,15 @@ t_developer me = {
 | 05 | [**push_swap**](https://github.com/adalomer/push_swap) | ✅ | 125/100 | Optimised sorting on two stacks |
 | 06 | [**Minishell**](https://github.com/adalomer/minishell) | ✅ | 101/100 | A tiny bash-like shell |
 | 07 | [**Philosophers**](https://github.com/adalomer/Philosophers) | ✅ | 100/100 | Dining philosophers — pthreads |
-| 08 | [**cub3D**](https://github.com/adalomer/cub3D) | 🚧 | — | Raycasting engine (in progress) |
-| 09 | **minishell (refactor)** | 📋 | — | Coming next |
-| 10 | **NetPractice** | 📋 | — | Networking basics |
-| 11 | **miniRT** | 📋 | — | Ray tracing |
-| 12 | **Inception** | 📋 | — | Docker / docker-compose |
-| 13 | **ft_irc** | 📋 | — | IRC server in C++98 |
-| 14 | **ft_transcendence** | 📋 | — | Full-stack Pong |
+| 08 | [**cub3D**](https://github.com/adalomer/cub3D) | ✅ | 100/100 | Raycasting engine |
+| 09 | **NetPractice** | ✅ | 100/100 | Networking basics |
+| 10 | **miniRT** | ✅ | 100/100 | Ray tracing |
+| 11 | **CPP Modules** | ✅ | — | C++ 00 → 08 |
+| 12 | [**ft_irc**](https://github.com/adalomer/ft_irc) | ✅ | — | IRC server in C++98 (a.k.a. *the webserver*) |
+| 13 | [**Inception**](https://github.com/adalomer/Inception) | 🚧 | — | Docker / docker-compose stack |
+| 14 | [**ft_transcendence**](https://github.com/adalomer/ft_transcendence) | 🚧 | — | Full-stack Pong |
 
-<sub>📌 *125/100 means a perfect 100 + a 25-point bonus module.*</sub>
+<sub>📌 *125/100 = 100% pass + 25-point bonus module.* &nbsp;·&nbsp; Final 2 in progress, common core almost done! 🎯</sub>
 
 </div>
 
@@ -154,18 +166,18 @@ t_developer me = {
 
 | Module | Topic | Status |
 |:------:|-------|:------:|
-| **cpp00** | Namespace, class, member functions, stdio, init lists, static, const | 🚧 |
-| **cpp01** | Memory allocation, pointers, references, switch | 📋 |
-| **cpp02** | Ad-hoc polymorphism, operator overloading, canonical form | 📋 |
-| **cpp03** | Inheritance | 📋 |
-| **cpp04** | Subtype polymorphism, abstract classes, interfaces | 📋 |
-| **cpp05** | Repetition, exceptions | 📋 |
-| **cpp06** | C++ casts | 📋 |
-| **cpp07** | Templates | 📋 |
-| **cpp08** | Templated containers, iterators, algorithms | 📋 |
-| **cpp09** | STL | 📋 |
+| **cpp00** | Namespace, class, member functions, stdio, init lists, static, const | ✅ |
+| **cpp01** | Memory allocation, pointers, references, switch | ✅ |
+| **cpp02** | Ad-hoc polymorphism, operator overloading, canonical form | ✅ |
+| **cpp03** | Inheritance | ✅ |
+| **cpp04** | Subtype polymorphism, abstract classes, interfaces | ✅ |
+| **cpp05** | Repetition, exceptions | ✅ |
+| **cpp06** | C++ casts | ✅ |
+| **cpp07** | Templates | ✅ |
+| **cpp08** | Templated containers, iterators, algorithms — *+ webserver* | ✅ |
+| **cpp09** | STL | 🚧 |
 
-<sub>🚧 in progress · 📋 planned · ✅ validated</sub>
+<sub>✅ validated &nbsp;·&nbsp; 🚧 in progress</sub>
 
 </div>
 
@@ -174,17 +186,17 @@ t_developer me = {
 ## 🌟 Featured Projects
 
 <div align="center">
+<a href="https://github.com/adalomer/ft_irc">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adalomer&repo=ft_irc&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="ft_irc"/>
+</a>
+<a href="https://github.com/adalomer/Inception">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adalomer&repo=Inception&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="Inception"/>
+</a>
 <a href="https://github.com/adalomer/Philosophers">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adalomer&repo=Philosophers&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="Philosophers"/>
 </a>
 <a href="https://github.com/adalomer/minishell">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adalomer&repo=minishell&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="Minishell"/>
-</a>
-<a href="https://github.com/adalomer/push_swap">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adalomer&repo=push_swap&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="Push Swap"/>
-</a>
-<a href="https://github.com/adalomer/fdf">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adalomer&repo=fdf&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="FDF"/>
 </a>
 </div>
 
@@ -193,7 +205,11 @@ t_developer me = {
 ## 🏅 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=adalomer&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4&margin-h=4" width="100%" alt="Trophies"/>
+  <a href="https://github.com/adalomer">
+    <img src="https://github-profile-trophy.vercel.app/?username=adalomer&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4&margin-h=4" width="100%" alt="GitHub Trophies"/>
+  </a>
+  <br/>
+  <sub>👆 If trophies don't render, the vercel-app service might be rate-limiting. Refresh the page or check <a href="https://github.com/adalomer">your profile</a> directly.</sub>
 </div>
 
 ---
